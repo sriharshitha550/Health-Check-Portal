@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v8.5"/>
+	<classpathentry kind="lib" path="C:/Users/Sri_harshitha_Muttav/Desktop/MQ jars/com.ibm.dhbcore.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sri_harshitha_Muttav/Desktop/MQ jars/com.ibm.mq.commonservices.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sri_harshitha_Muttav/Desktop/MQ jars/com.ibm.mq.connector.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sri_harshitha_Muttav/Desktop/MQ jars/com.ibm.mq.headers.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sri_harshitha_Muttav/Desktop/MQ jars/com.ibm.mq.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sri_harshitha_Muttav/Desktop/MQ jars/com.ibm.mq.jmqi.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sri_harshitha_Muttav/Desktop/MQ jars/com.ibm.mq.jmqi.local.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sri_harshitha_Muttav/Desktop/MQ jars/com.ibm.mq.jmqi.remote.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sri_harshitha_Muttav/Desktop/MQ jars/com.ibm.mq.jmqi.system.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sri_harshitha_Muttav/Desktop/MQ jars/com.ibm.mq.jms.admin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sri_harshitha_Muttav/Desktop/MQ jars/com.ibm.mq.pcf.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sri_harshitha_Muttav/Desktop/MQ jars/com.ibm.mqetclient.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sri_harshitha_Muttav/Desktop/MQ jars/com.ibm.mqjms.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sri_harshitha_Muttav/Desktop/MQ jars/com.ibm.msg.client.commonservices.j2se.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sri_harshitha_Muttav/Desktop/MQ jars/com.ibm.msg.client.commonservices.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sri_harshitha_Muttav/Desktop/MQ jars/com.ibm.msg.client.jms.internal.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sri_harshitha_Muttav/Desktop/MQ jars/com.ibm.msg.client.jms.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sri_harshitha_Muttav/Desktop/MQ jars/com.ibm.msg.client.matchspace.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sri_harshitha_Muttav/Desktop/MQ jars/com.ibm.msg.client.provider.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sri_harshitha_Muttav/Desktop/MQ jars/com.ibm.msg.client.ref.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sri_harshitha_Muttav/Desktop/MQ jars/com.ibm.msg.client.wmq.common.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sri_harshitha_Muttav/Desktop/MQ jars/com.ibm.msg.client.wmq.factories.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sri_harshitha_Muttav/Desktop/MQ jars/com.ibm.msg.client.wmq.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sri_harshitha_Muttav/Desktop/MQ jars/com.ibm.msg.client.wmq.v6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sri_harshitha_Muttav/Desktop/MQ jars/javax.jms.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sri_harshitha_Muttav/Desktop/MQ jars/weblogic.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
